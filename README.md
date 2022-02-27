@@ -1,4 +1,4 @@
-# Time-Series-Analysis
+# Time-Series-Analysis ![license](https://img.shields.io/github/license/pouyaardehkhani/Time-Series-Analysis.svg) ![releases](https://img.shields.io/github/release/pouyaardehkhani/Time-Series-Analysis.svg) <a href="https://colab.research.google.com/github/pouyaardehkhani/Time-Series-Analysis/blob/master/Time_Series_Analysis.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 This notebook provides some skills to perform Time-Series-Analysis.
 
 ## Skills that are covered in this notebook:
